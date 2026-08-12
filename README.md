@@ -21,7 +21,7 @@ https://mintic.gov.co/arquitecturaempresarial/portal/modelomrae/Modelo-de-Gestio
 
 ## Plan Estratégico de las Tecnologías de Información – PETI 2016- 2019 Alcaldía Municipal de Bello –Antioquia (Colombia) – Asesor PhD Walter Hugo Arboleda Mazo (Universidad Nacional de Colombia – Sede Medellín)
 
-https://mintic.gov.co/arquitecturaempresarial/portal/modelomrae/Modelo-de-Gestion-y-Gobierno-TI-MGGTI/
+https://belloantioquia.micolombiadigital.gov.co/sites/belloantioquia/content/files/000064/3198_planzestratgicozdeztecnologaszdezinformacinzzpetizmunicipiozdezbelloz20.pdf
 
 
 ## Diseño y Plan de Implementación del Plan Estratégico de Tecnología De Información “PETI” para la Empresa SOFTWARE Y SOLUCIONES INFORMÁTICAS TECNIFICATE SAS
