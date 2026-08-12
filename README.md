@@ -1,5 +1,7 @@
 # Seminar on Governance and Technology Management
-## PhD. Walter H. Arboleda
+# Walter H. Arboleda
+# Semester 2026-2
+# Teacher: Walter H. Arboleda
 
 https://github.com/walterarboleda
 
