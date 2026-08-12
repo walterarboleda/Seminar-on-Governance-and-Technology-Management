@@ -1,5 +1,5 @@
 # Seminar on Governance and Technology Management
-PhD. Walter H. Arboleda
+## PhD. Walter H. Arboleda
 
 https://github.com/walterarboleda
 
