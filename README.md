@@ -1,7 +1,7 @@
 <img width="641" height="164" src="https://github.com/user-attachments/assets/442c75e8-fa57-40b6-92c2-50c261b03a70" />
 
 
-# Seminar on Governance and Technology Management
+# Seminar on Management and Technology Governance
 # Walter H. Arboleda
 # Semester 2026-2
 # Teacher: Walter H. Arboleda
