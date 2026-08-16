@@ -2,7 +2,6 @@
 
 
 # Seminar on Management and Technology Governance
-# Walter H. Arboleda
 # Semester 2026-2
 # Teacher: Walter H. Arboleda
 
