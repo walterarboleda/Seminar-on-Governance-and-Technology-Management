@@ -12,6 +12,12 @@ https://github.com/walterarboleda
 
 https://drive.google.com/file/d/1jPBizALq3arIW17ZT-W4rYmYrvaHwh7P/view?usp=sharing
 
+## Information Technology Governance Article
+
+https://www.abacademies.org/articles/information-technology-governance-enhancing-alignment-accountability-and-value-creation.pdf
+
+
+
 ## Borrador Planeación de Esquema de Gestión y Gobierno
 
 [Planear un esquema de Gestión y Gobierno.pdf](https://github.com/user-attachments/files/31242611/Planear.un.esquema.de.Gestion.y.Gobierno.pdf)
