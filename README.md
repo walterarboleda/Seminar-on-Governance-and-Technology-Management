@@ -12,6 +12,13 @@ https://github.com/walterarboleda
 
 https://drive.google.com/file/d/1jPBizALq3arIW17ZT-W4rYmYrvaHwh7P/view?usp=sharing
 
+## Borrador Planeación de Esquema de Gestión y Gobierno
+
+[Planear un esquema de Gestión y Gobierno.pdf](https://github.com/user-attachments/files/31242611/Planear.un.esquema.de.Gestion.y.Gobierno.pdf)
+[Planear un esquema de Gestión y Gobierno.docx](https://github.com/user-attachments/files/31242614/Planear.un.esquema.de.Gestion.y.Gobierno.docx)
+
+
+
 
 ## Guia para la Construccción de Plan Estrategico de las Tecnologias de Información (PETI)-  Modelo de Gestión y Gobierno de TI – MGGTI – MINTIC Colombia
 
