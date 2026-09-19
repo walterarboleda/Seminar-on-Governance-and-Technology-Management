@@ -67,4 +67,20 @@ https://cdn.standards.iteh.ai/samples/81684/d53a7c7f4842401ebfd30d8bd728fde6/ISO
 https://www.vanharen.net/store/samplefile/api/downloader/getId/978908753701C?srsltid=AfmBOornkK9FsoZyRZngxT__eWd2VjoHIwIpZalD6G5VC9E3Z9Q5INbx
 
 
+## ISO 9001-2015 Calidad en los Procesos Organizacionales
+
+[NOM_ISO_9001-2015.pdf](https://github.com/user-attachments/files/32407065/NOM_ISO_9001-2015.pdf)
+
+
+## Buen Gobierno de las Tecnologias de la Informacion segun la Norma ISOIEC 3850
+
+[buen_gobierno_de_las_tecnologias_de_la_informacion_segun_la_normas_isoiec_38500.pdf](https://github.com/user-attachments/files/32407069/buen_gobierno_de_las_tecnologias_de_la_informacion_segun_la_normas_isoiec_38500.pdf)
+
+
+## Sistema de Gestión de la Seguridad
+
+[sistema_de_gestion_de_seguridad-1.pdf](https://github.com/user-attachments/files/32407074/sistema_de_gestion_de_seguridad-1.pdf)
+
+
+
 
