@@ -83,4 +83,10 @@ https://www.vanharen.net/store/samplefile/api/downloader/getId/978908753701C?srs
 
 
 
+## Borrador Diseñar un modelo aplicando los componentes del dominio del MGGTI – Avance
+
+[Modelo_MGGTI_MINTIC_Empresa_ACME.docx](https://github.com/user-attachments/files/32407364/Modelo_MGGTI_MINTIC_Empresa_ACME.docx)
+
+[Modelo_MGGTI_MINTIC_Empresa_ACME.pdf](https://github.com/user-attachments/files/32407363/Modelo_MGGTI_MINTIC_Empresa_ACME.pdf)
+
 
