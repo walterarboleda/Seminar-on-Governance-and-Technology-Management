@@ -77,7 +77,7 @@ https://www.vanharen.net/store/samplefile/api/downloader/getId/978908753701C?srs
 [buen_gobierno_de_las_tecnologias_de_la_informacion_segun_la_normas_isoiec_38500.pdf](https://github.com/user-attachments/files/32407069/buen_gobierno_de_las_tecnologias_de_la_informacion_segun_la_normas_isoiec_38500.pdf)
 
 
-## Sistema de Gestión de la Seguridad
+## Sistema de Gestión de la Seguridad ISO/IEC 27000
 
 [sistema_de_gestion_de_seguridad-1.pdf](https://github.com/user-attachments/files/32407074/sistema_de_gestion_de_seguridad-1.pdf)
 
